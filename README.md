@@ -7,7 +7,7 @@ Client-side protection layer for FlexyBOT. It guards your site using server sign
 
 ---
 
-![FlexyBOT Logo](assets/img/logo.png)  
+![FlexyBOT Logo](https://www.flexcb.fr/flexybots.jpg)  
 
 ---
 
