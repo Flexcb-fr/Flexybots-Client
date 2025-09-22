@@ -16,7 +16,7 @@ Copyright (C) 2025  flexcb.Fr
 
 This library (FlexyBOT Client) is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public License (LGPL-3.0).  
-See [Full License](./LICENSE) for details.
+See [Full License](./LICENSE.md) for details.
 
 ---
 
