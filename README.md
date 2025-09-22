@@ -35,20 +35,20 @@ See [Full License](./LICENSE.md) for details.
 
 ```
 /your-site-root/
-/your-protection-folder/
-/Controllers
-/Models
-/Views
-/admin
-/assets/css
-/cache
-/config
-/logs
-config.php
-node.php
-node\_endpoint.php
-process\_js\_signals.php
-update-cache.php
+    /your-protection-folder/
+    /Controllers
+    /Models
+    /Views
+    /admin
+    /assets/css
+    /cache
+    /config
+    /logs
+    config.php
+    node.php
+    node_endpoint.php
+    process_js_signals.php
+    update-cache.php
 
 ````
 **Note:** Replace `your-protection-folder` with your preferred name (e.g., `flexybot`, `security`, `guard`).
